@@ -1,0 +1,11 @@
+Package: knxd-dev
+Source: knxd
+Version: 0.10.0-1
+Architecture: all
+Maintainer: Timo <knxd@timo-wingender.de>
+Installed-Size: 69
+Section: net
+Priority: optional
+Homepage: https://github.com/Makki1/knxd
+Description: Development files for knxd
+ These are the development files for knxd clients

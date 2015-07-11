@@ -1,0 +1,4 @@
+knxd_0.10.0-1_armhf.deb net optional
+knxd-tools_0.10.0-1_armhf.deb net optional
+knxd-dev_0.10.0-1_all.deb net optional
+knxd-examples_0.10.0-1_armhf.deb net optional

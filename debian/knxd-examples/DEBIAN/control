@@ -1,0 +1,12 @@
+Package: knxd-examples
+Source: knxd
+Version: 0.10.0-1
+Architecture: armhf
+Maintainer: Timo <knxd@timo-wingender.de>
+Installed-Size: 933
+Depends: knxd, libc6 (>= 2.13-28)
+Section: net
+Priority: optional
+Homepage: https://github.com/Makki1/knxd
+Description: documentation and examples for knxd
+ These are example programs for knxd

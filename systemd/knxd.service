@@ -1,0 +1,13 @@
+[Unit]
+Description=KNX Daemon
+After=network.target
+
+[Service]
+EnvironmentFile=/usr/etc/knxd.conf
+ExecStart=/usr/bin/knxd $KNXD_OPTS $KNXD_URL
+User=knxd
+Group=knxd
+
+[Install]
+WantedBy=multi-user.target
+Also=knxd.socket

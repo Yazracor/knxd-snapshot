@@ -1,0 +1,8 @@
+0ee3cb4f3ebbfa3261341fa8b890bef0  usr/bin/knxd
+915542de07fec408ec3699afce623777  usr/lib/libeibclient.a
+810d8520f0c01b07f24b5bc7d532b8e2  usr/lib/libeibclient.la
+8d3c61b78adb6352c3b96b929fae0c65  usr/lib/libeibclient.so.0.0.0
+a7beefe235c49fb0dfd6d6ae547b7546  usr/share/doc/knxd/README.Debian
+b4d2521c27becc0015fa95c6402e1aa6  usr/share/doc/knxd/README.md
+ce6c84cc2bd5cb54b11054a60762247e  usr/share/doc/knxd/changelog.Debian.gz
+c063619f2e6f2904340bf40dcc465ac8  usr/share/doc/knxd/copyright
